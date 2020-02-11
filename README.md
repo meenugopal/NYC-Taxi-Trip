@@ -1,4 +1,4 @@
-# NYC-Taxi-Trip - Domain : Tranpotation
+# NYC-Taxi-Trip - Domain : Transportation
 
 This project, I would like to add some timeseries analysis for the trip taken by passengers on a particular day.
 
